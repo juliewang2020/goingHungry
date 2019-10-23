@@ -1,6 +1,6 @@
 # goingHungry
 Volhacks IV project
-
+https://devpost.com/software/goinghungry
 
 ## Inspiration
 Because of the rising cost of college, more and more students are facing food insecurity on campus as they have to decide between paying for tuition or food. We also joke a lot at our school that if you are smart, you could probably eat for free every day if you knew where to go.
